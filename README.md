@@ -1,7 +1,6 @@
 # Asteroides_2D
 
-
-
+Proyecto basado en el juego de asteroides hecho con los recursos y aprendizaje obtenidos en udemy
 
 
 <p>
